@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'dejavu_serifbook';
+    src: url('dejavuserif.eot');
+    src: url('dejavuserif.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserif.woff') format('woff'),
+         url('dejavuserif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifbold';
+    src: url('dejavuserif-bold.eot');
+    src: url('dejavuserif-bold.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserif-bold.woff') format('woff'),
+         url('dejavuserif-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifbold_italic';
+    src: url('dejavuserif-bolditalic.eot');
+    src: url('dejavuserif-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserif-bolditalic.woff') format('woff'),
+         url('dejavuserif-bolditalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifcondensed';
+    src: url('dejavuserifcondensed.eot');
+    src: url('dejavuserifcondensed.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserifcondensed.woff') format('woff'),
+         url('dejavuserifcondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifcondensed_bold';
+    src: url('dejavuserifcondensed-bold.eot');
+    src: url('dejavuserifcondensed-bold.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserifcondensed-bold.woff') format('woff'),
+         url('dejavuserifcondensed-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifCnBdIt';
+    src: url('dejavuserifcondensed-bolditalic.eot');
+    src: url('dejavuserifcondensed-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserifcondensed-bolditalic.woff') format('woff'),
+         url('dejavuserifcondensed-bolditalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifcondensed_italic';
+    src: url('dejavuserifcondensed-italic.eot');
+    src: url('dejavuserifcondensed-italic.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserifcondensed-italic.woff') format('woff'),
+         url('dejavuserifcondensed-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dejavu_serifitalic';
+    src: url('dejavuserif-italic.eot');
+    src: url('dejavuserif-italic.eot?#iefix') format('embedded-opentype'),
+         url('dejavuserif-italic.woff') format('woff'),
+         url('dejavuserif-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
